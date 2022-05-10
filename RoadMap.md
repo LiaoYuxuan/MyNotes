@@ -1,0 +1,70 @@
+# 学习路线
+## 深度学习理论入门
+- 深度学习的基本概念和经典模型
+    - [ ] CV
+        - [ ] 图像分类
+        - [ ] 目标检测
+        - [ ] 图像分割
+            - [ ] FCN
+        - [ ] 物体追踪
+        - [ ] 图像生成/GAN
+    - [ ] NLP
+        - [ ] 文本分类
+        - [ ] 文本匹配
+        - [ ] 序列标注
+        - [ ] 文本生成
+    - [ ] 强化学习
+- 深度学习必看的课程和书籍
+    - [ ] 吴恩达的深度学习讲义
+    - [ ] cs231n计算机视觉
+        - https://www.bilibili.com/video/BV1nJ411z7fe?from=search&seid=7594775480695125527&spm_id_from=333.337.0.0
+        - https://github.com/rishabh-16/cs231n-2019-assignments
+    - [ ] cs224n自然语言处理
+        - https://www.bilibili.com/video/BV1pt411h7aT?from=search&seid=11365156277928976769&spm_id_from=333.337.0.0
+        - https://github.com/Luvata/CS224N-2019/tree/master/CS224N-2019/
+    - [ ] 邱锡鹏：神经网络与深度学习
+        - https://nndl.github.io/
+    - [ ] Pytorch框架学习
+        - https://blog.csdn.net/bit452/category_10569531.html
+        - https://www.bilibili.com/video/BV1Y7411d7Ys?from=search&seid=1631997590037031874&spm_id_from=333.337.0.0
+        - https://github.com/yunjey/pytorch-tutorial
+    - [ ] 李沐的动手学深度学习
+        - https://space.bilibili.com/1567748478?spm_id_from=333.788.b_765f7570696e666f.1
+    - [ ] 面试题
+        - [ ] 百面机器学习
+
+- 深度学习实战
+    - [ ] 计算机视觉-街景符号识别
+        - https://tianchi.aliyun.com/competition/entrance/531795/introduction?spm=5176.12281973.1005.23.3dd52448NfUWzv
+        - 赛题理解：
+            - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.15.2ce879deGunCpk&postId=108659
+        - 数据读取与数据扩增：
+            - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.24.2ce879deGunCpk&postId=108150
+        - 构建模型：
+            - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.2ce879deGunCpk&postId=108711
+        - 模型的训练与验证：
+            - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.2ce879deGunCpk&postId=108780
+        - 模型的集成：
+            - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.21.2ce879deGunCpk&postId=108656
+    - [ ] 自然语言处理-新闻文本分类
+        - https://tianchi.aliyun.com/competition/entrance/531810/introduction?spm=5176.12281973.1005.22.3dd52448NfUWzv
+        - 赛题解析：
+            - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.30.6406111aQqRTBR&postId=118252
+        - 分析数据：
+            - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.18.6406111aE3Lglg&postId=118253
+        - 基于机器学习的文本分类任务：
+            - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.15.6406111aE3Lglg&postId=118254
+        - 不同深度学习模型：
+            - fastext
+                - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.12.6406111aE3Lglg&postId=118255
+            - Word2vec
+                - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.6406111aE3Lglg&postId=118268
+            - CNN 做文本分类
+                - 暂无链接
+            - RNN做文本分类
+                - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.24.6406111aE3Lglg&postId=118259
+            - BERT做文本分类
+                - https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.24.6406111aE3Lglg&postId=118259
+
+## 未完待续
+
